@@ -29,6 +29,7 @@ def calculator():
             print("Error: Invalid input")
         except KeyboardInterrupt:
             print("\nCalculator stopped")
+            print("\n shitty command")
             break
 
 
